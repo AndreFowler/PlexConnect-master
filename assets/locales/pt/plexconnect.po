@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plex Connect\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-25 08:50+0800\n"
+"PO-Revision-Date: 2013-08-25 20:29+0800\n"
+"Last-Translator: Grey Lee <bcse@bcse.tw>\n"
+"Language-Team: Grey Lee <bcse@bcse.tw>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+""
+
+msgid "Actor View"
+msgstr "Vista dos Atores"
+
+
+msgid "Actors"
+msgstr "Atores"
+
+
+msgid "All Movies"
+msgstr "Todos os Filmes"
+
+
+msgid "All Shows"
+msgstr "Todas as Séries"
+
+
+msgid "Appearance"
+msgstr "Aparência"
+
+
+msgid "Audio"
+msgstr "Som"
+
+
+msgid "Audio Boost %"
+msgstr "Aumento do Som %"
+
+
+msgid "Audio/Subs"
+msgstr "Som/Legenda"
+
+
+msgid "Authors"
+msgstr "Autores"
+
+
+msgid "By Collection"
+msgstr "Por Coleção"
+
+
+msgid "By Content Rating"
+msgstr "Por Classificação de Conteúdo"
+
+
+msgid "By Country"
+msgstr "Por País"
+
+
+msgid "By First Letter"
+msgstr "Por Ordem Alfabética"
+
+
+msgid "By Folder"
+msgstr "Por Pasta"
+
+
+msgid "By Rating"
+msgstr "Por Classificação"
+
+
+msgid "By Resolution"
+msgstr "Por Resolução"
+
+
+msgid "By Year"
+msgstr "Por Ano"
+
+
+msgid "Channels"
+msgstr "Canais"
+
+
+msgid "Clock Position"
+msgstr "Posição do Tempo"
+
+
+msgid "Collections"
+msgstr "Coleções"
+
+
+msgid "Decades"
+msgstr "Décadas"
+
+
+msgid "Details"
+msgstr "Detalhes"
+
+
+msgid "Director"
+msgstr "Diretor"
+
+
+msgid "Directors"
+msgstr "Diretores"
+
+
+msgid "Discover"
+msgstr "Descobrir"
+
+
+msgid "Episodes"
+msgstr "Episódios"
+
+
+msgid "Force Direct Play"
+msgstr "Forçar 'Direct Play'"
+
+
+msgid "Force Transcode"
+msgstr "Forçar Transcodificação"
+
+
+msgid "Forum"
+msgstr "Fórum"
+
+
+msgid "Genre"
+msgstr "Gênero"
+
+
+msgid "Genres"
+msgstr "Gêneros"
+
+
+msgid "Homepage"
+msgstr "Página Principal"
+
+
+msgid "Length"
+msgstr "Duração"
+
+
+msgid "Library"
+msgstr "Biblioteca"
+
+
+msgid "Library Refresh in Progress."
+msgstr "Atualização da Biblioteca em Progresso."
+
+
+msgid "More"
+msgstr "Mais"
+
+
+msgid "More..."
+msgstr "Mais..."
+
+
+msgid "Movie Navigation Bar"
+msgstr "Barra de Navegação de Filmes"
+
+
+msgid "Movie Options"
+msgstr "Opção dos Filmes"
+
+
+msgid "Movie View"
+msgstr "Visualização dos Filmes"
+
+
+msgid "Movies"
+msgstr "Filmes"
+
+
+msgid "No Seasons"
+msgstr "Sem Temporadas"
+
+
+msgid "No Unwatched Movies"
+msgstr "Sem Filmes não assistidos"
+
+
+msgid "No Unwatched Shows"
+msgstr "Séries não assistidas"
+
+
+msgid "No Unwatched Shows."
+msgstr "Séries não assistidas."
+
+
+msgid "No episodes"
+msgstr "Sem Episódios"
+
+
+msgid "On Deck"
+msgstr "Em Progresso"
+
+
+msgid "Overscan Adjust"
+msgstr "Ajuste"
+
+
+msgid "PMS"
+msgstr "PMS"
+
+
+msgid "Photo"
+msgstr "Foto"
+
+
+msgid "Play"
+msgstr "Play"
+
+
+msgid "Plex Media Server"
+msgstr "Plex Media Server"
+
+
+msgid "Plex Media Server: No Channels Available"
+msgstr "Plex Media Server: Sem Canais Disponível"
+
+
+msgid "Plex Media Server: No Items Available"
+msgstr "Plex Media Server: Sem Ítens Disponíveis"
+
+
+msgid "Press menu to return."
+msgstr "Pressione menu para voltar."
+
+
+msgid "Producers"
+msgstr "Produtores"
+
+
+msgid "Recently Added"
+msgstr "Adicionado Recentemente"
+
+
+msgid "Recently Aired"
+msgstr "No Ar"
+
+
+msgid "Recently Released"
+msgstr "Lançado Recentemente"
+
+
+msgid "Recently Viewed"
+msgstr "Visto Recentemente"
+
+
+msgid "Recently Viewed Shows"
+msgstr "Séries Vistas Recentementes"
+
+
+msgid "Refresh Library"
+msgstr "Atualizar Biblioteca"
+
+
+msgid "Search"
+msgstr "Procurar"
+
+
+msgid "Search Plex Library"
+msgstr "Procurar na Biblioteca do Plex"
+
+
+msgid "Season"
+msgstr "Temporada"
+
+
+msgid "Season View"
+msgstr "Temporada Vista"
+
+
+msgid "Settings"
+msgstr "Ajustes"
+
+
+msgid "Show Clock"
+msgstr "Mostrar Relógio"
+
+
+msgid "Show End Time"
+msgstr "Mostrar Hora de Finalização"
+
+
+msgid "Show Photos"
+msgstr "Mostrar Fotos"
+
+
+msgid "Show Unwatched Count"
+msgstr "Mostrar Contador de não vistos"
+
+
+msgid "Shows"
+msgstr "Séries"
+
+
+msgid "SlideShow"
+msgstr "SlideShow"
+
+
+msgid "Subtitle Size %"
+msgstr "Tamanho da Legenda %"
+
+
+msgid "TV Show Navigation Bar"
+msgstr "Barra de Navegação do Seriado"
+
+
+msgid "TV Show Options"
+msgstr "Opções do Seriado"
+
+
+msgid "TV Show View"
+msgstr "Visualização do Seriado"
+
+
+msgid "Time Format"
+msgstr "Formato do Relógio"
+
+
+msgid "Transcoder"
+msgstr "Transcoder"
+
+
+msgid "Transcoder Quality"
+msgstr "Qualidade do Transcode"
+
+
+msgid "Unwatched"
+msgstr "Não visto"
+
+
+msgid "Version"
+msgstr "Versão"
+
+
+msgid "Video"
+msgstr "Vídeo"
+
+
+msgid "Video Player OSD"
+msgstr "OSD do Reprodutor"
+
+
+msgid "Wiki/Docs"
+msgstr "Wiki/Documentos"
+
+
+msgid "Writers"
+msgstr "Escritores"
+
+
+msgid "Your aTV firmware version is too old to run this version of PlexConnect.\n"
+"Please use the v0.1-iOS-pre5.1 branch available from:-\n"
+"https://github.com/iBaa/PlexConnect"
+msgstr "Sua versão firmware da AppleTV é muito velha para rodar PlexConnect.\n"
+"Por favor, use pelo menos a versão v0.1-iOS-pre5.1 disponível no:-\n"
+"https://github.com/iBaa/PlexConnect"
+
+
+msgid "aTV firmware version 5.0.2 or lower."
+msgstr "Versão de Firmware da AppleTV 50.2 ou mais antiga."
+
+
+msgid "{0:0d}x{1:02d} {2}"
+msgstr "{0:0d}x{1:02d} {2}"
+
+
+msgid "{0:d} Minutes"
+msgstr "{0:d} Minutos"
+
+
+msgid "{0:d}hr {1:d}min"
+msgstr "{0:d}hr {1:d}min"
+
+
+msgid "{0} unwatched"
+msgstr "{0} não visto"
+

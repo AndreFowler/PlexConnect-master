@@ -1,0 +1,16 @@
+
+*.pyc
+
+ATVSettings.cfg
+
+Settings.cfg
+
+PlexConnect.log
+
+*.cer
+
+*.key
+
+*.pem
+
+*.der
